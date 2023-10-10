@@ -10,4 +10,6 @@ I've been assigned 5 tasks:
 5. STUDENT MANAGEMENT SYSTEM
 
 
-Currently working on: Task 2
+Currently working on: Null
+
+Finished all of the Tasks.
